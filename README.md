@@ -22,6 +22,6 @@ I am actively developing an Amazon Clone using HTML, CSS, and JavaScript, featur
 - Jasmine for testing and ensuring code reliability.
 
 **Project Link:**
-[AmazonClone]([your-github-repository-link](https://chandrajit19.github.io/Amazon-with-me/))
+[AmazonClone][https://chandrajit19.github.io/Amazon-with-me/]
 
 Explore this project to witness my commitment to developing complex and feature-rich web applications. I am excited about the opportunity to discuss how my skills align with your team's needs.
